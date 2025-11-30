@@ -20,6 +20,8 @@
 > I like computers but don't know which field to focus. I have some experience with Computer Vision and Operating Systems just to name some.!  
 >> `Project Link:` [MHZ's Portfolio](https://mhafiz03.github.io)
 
+---
+
 - [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) `[S.E. Assitant of LTI, 2025/2026 - VIM]`
 > Aspired to be low-level/hardware engineer. Right to repair enthusiast.
 >> `Project Link:` [VIM's Portfolio](https://petorikooru.github.io)
