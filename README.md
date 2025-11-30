@@ -6,7 +6,7 @@
 
 ## Software Engineers Introduction
 
-- [Abdul Aziz]() `[S.E. Assitant of LTI, 2024/2025 - BUG]`
+- [Abdul Aziz](https://github.com/aziz-0110) `[S.E. Assitant of LTI, 2024/2025 - BUG]`
 
 - [I Made Adhika Dananjaya](https://github.com/kingofaris) `[S.E. Assitant of LTI, 2024/2025 - DAY]`
 > Let's study together!  
